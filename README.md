@@ -6,3 +6,6 @@ Removed border in StepProduct, signup-modal. Added border: none; to fix
 
 1.96
 Added ability to add own colors in crm and change provider colors with a click of a button. Alkso swapped out maps with latest google maps, need to fix the demo key
+
+1.97
+Added test otp if isDemo
