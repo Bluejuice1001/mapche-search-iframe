@@ -20,3 +20,6 @@ This allow any website to incoroporates the iframe, with out auto focus set. To 
 
 2.00
 Added Lat and Lng on search bar, also build in if Lat and Lng not in coutry it displays error message
+
+2.01
+Cannot press Search if not both Lat and Lng is filled in 
