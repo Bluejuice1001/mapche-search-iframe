@@ -14,3 +14,8 @@ Added test otp for isDemo
 Removed devide-y from SearchMenue2 html below to remove border on iframe so that it can blend with any website
 <div class="font-sans text-sm w-full max-w-full max-h-full bg-white shadow-catche fixed top-10  flex flex-col divide-y overflow-hidden"
 Fixed: SesisonToken for AutomCompleteSession
+
+1.99
+Changed this.focus() to this.unfocus() SearchBox mounted()
+This allow any website to incoroporates the iframe, with out auto focus set. To set focus on click do this manually in html client side
+
